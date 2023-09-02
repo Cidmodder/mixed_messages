@@ -1,0 +1,24 @@
+*{
+    background-color: lightgoldenrodyellow;
+}
+
+h1{
+    font-family: 'Architects Daughter', cursive;
+}
+
+p {
+    border: 5px solid red;
+    display: flex;
+    justify-content: center;
+    font-family: 'Architects Daughter', cursive; 
+}
+
+button {
+    font-family: 'Architects Daughter', cursive;
+    border: 5px solid blue;
+    display: flex;
+    position:relative;
+    left: 45%;
+   justify-content: center;
+    
+}
